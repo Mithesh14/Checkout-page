@@ -3,7 +3,7 @@
 
 # Project demo link
 
-<a href="https://mithesh14.github.io/Interior-consultant/">Checkout page</a>
+<a href="https://mithesh14.github.io/Checkout-page/">Checkout page</a>
 
 # Screenshots 
 
